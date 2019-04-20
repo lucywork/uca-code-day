@@ -4,7 +4,7 @@ A one-day workshop and follow-up resources for HE tutors and technicians in art 
 ## Part 1. ##
 :clock10: **10am-1pm**
 
-:key: **Build a 3-page website from scratch**
+:key: **Build a one-page portfolio website from scratch**
 
 1. HTML
 2. CSS
@@ -20,7 +20,7 @@ A one-day workshop and follow-up resources for HE tutors and technicians in art 
 :key: **Overview of interactive and immersive technologies available**
 
 1. APIs and databases
-2. arduino & raspberry pi 
+2. arduino & raspberry pi
 3. virtual and artificial 'realities'
 4. projection mapping
 5. QR codes
@@ -35,20 +35,20 @@ A one-day workshop and follow-up resources for HE tutors and technicians in art 
 ## Part 3. ##
 :clock3: **3pm-3.45pm**
 
-:key: **Aim: Overview of user experience, user interface and project management** 
+:key: **Aim: Overview of user experience, user interface and project management**
 
 1. UX research
-2. rapid prototyping websites/apps 
-3. SketchApp – wireframing, dimensions grid systems 
+2. rapid prototyping websites/apps
+3. SketchApp – wireframing, dimensions grid systems
 5. inVision – animating prototypes
 6. Zeplin – transfer into code
-7. Hosting 
+7. Hosting
 7. Analytics – tracking user behaviour
 8. Workflows – agile, lean
 
 ##
 
-### Wrapping up ### 
+### Wrapping up ###
 **3.45pm-4.00pm**
 
 :key: Handover resources, chance to ask further questions :raising_hand: :speech_balloon:
