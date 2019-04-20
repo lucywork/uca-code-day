@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'open sans', 'arial';
+}
+
+/* navigation bar styles */
+
+nav {
+  background-color: silver;
+}
+
+nav ul {
+  list-style: none;
+  display: inline-block;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 1em;
+}
+
+#nav-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* set a maximum width for sections */
+
+#main-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* set a height for all sections */
+
+section {
+  height: 60vh;
+}
+
+/*style about section */
+
+#profile-pic {
+  max-width: 20%;
+}
+
+/*style contact section */
+
+form input {
+  margin: 1em;
+}
