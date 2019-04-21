@@ -48,8 +48,9 @@ E.g. Paragraph tag with italics tag nested inside:
 13. Add [headings](https://www.w3schools.com/html/html_headings.asp) to each of your sections
 14. Change the section titles to something more informative
 15. Add a paragraph of [Lorem ipsum](./lorem-ipsum.md) beneath the headings for your first two sections
-16. Add a [form](./form.html) to your Contact section
+16. Add an `<address>`, a telephone link `<a>` and an email link `<a>` to your Contact section. (You could also use [formspree.io](https://formspree.io/) to create a functioning form)
 17. Keep saving/refreshing/viewing
+18. How do you make sure the address doesn't appear on one line?
 
 :speech_balloon:
 

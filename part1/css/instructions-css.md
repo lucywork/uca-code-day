@@ -67,7 +67,8 @@ An id allows us to add custom styles to one unique html element (as opposed to a
 6. Implement a colour scheme using hex or RGB
 7. Make the image into a circle (use border radius)
 8. Give the image a border
-9. Make the menu items link to the corresponding sections
+9. [Make the menu items link](https://way2tutorial.com/html/html_internal_links.php) to the corresponding sections
+10. Create a [photo gallery](https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp) instead or in addition to the portfolio
 
 ---
 
