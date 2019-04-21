@@ -4,5 +4,7 @@
 
 The instructions can also be followed independently, but in this case you will need to look up solutions.
 
+See part1-resources.md for follow-up resources
+
 1. See the ./wireframes folder before we begin.
 2. See the instructions in the html folder to get started
