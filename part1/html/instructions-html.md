@@ -32,10 +32,14 @@ E.g. Paragraph tag with italics tag nested inside:
 
 `<p> I am a <i>paragraph</i></p>`
 <p> I am a <i>paragraph</i></p>
+
 ---
+
 - Most beginner tutorials get you to add content elements first (text, images, etc). You end up with a cluttered page.
 - I advocate a structural approach...
+
 ---
+
 10. Inside your `<body>` tags, add:
     - a `<nav>` element
     - three `<section>` elements
