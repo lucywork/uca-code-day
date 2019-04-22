@@ -1,4 +1,4 @@
-# Part1: Resources #
+# Part1: Resources for learning web dev #
 
 You can teach yourself web development using free resources.
 

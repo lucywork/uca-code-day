@@ -69,6 +69,7 @@ An id allows us to add custom styles to one unique html element (as opposed to a
 8. Give the image a border
 9. [Make the menu items link](https://way2tutorial.com/html/html_internal_links.php) to the corresponding sections
 10. Create a [photo gallery](https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp) instead or in addition to the portfolio
+11. *Make a GitHub account and [publish your website](https://pages.github.com/) online*
 
 ---
 
