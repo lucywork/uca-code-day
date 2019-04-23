@@ -5,6 +5,7 @@ Lecture available [here](https://docs.google.com/presentation/d/e/2PACX-1vSDu1_0
 ---
 
 ## User Interface: Prototyping ##
+
 - Do your [UX Research](https://www.nngroup.com) first (or sit in with a researcher) so you have a clear idea of what you need to achieve
 - Pencil and paper
     - Use rapid prototyping techniques (e.g. 8 ideas in 8 minutes on 8 pages)
